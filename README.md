@@ -1,2 +1,2 @@
 # sc-db-overlay
-there is nothing at the moment
+more readable way to use db
